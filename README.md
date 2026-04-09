@@ -58,12 +58,12 @@ Large raster, matrix, and intermediate spatial files are excluded from this repo
 
 # LIMITATIONS AND ASSUMPTIONS
 1. Population data (WorldPop 2020) provides high-resolution, UN-adjusted estimates based on census counts. However, it may not fully capture recent urban growth, particularly in informal settlements, and it does not provide demographic disaggregation (e.g., age, gender).
-2. Waterpoint dataset (Donate Water Nigeria) has limited spatial coverage.
+2. The Donate Water Nigeria waterpoint dataset has limited spatial coverage, and several variables, including affordability and queueing conditions, were recorded only descriptively; consequently, these parameters could not be quantitatively incorporated into the modelling framework.
 3. Not all informal water vendors or small-scale distribution points were captured in the dataset.
 4. Service reliability was approximated where direct monitoring data were missing.
 5. Walking path alone was used to estimate travel times.
 6. Travel time estimates rely on routing assumptions and may not always capture seasonal variability (e.g., flooding).
-7. Local validation was limited, as only one community in Kano was able to validate the result, and the cutoff applied captured just one of the two communities.
+7. Local validation was limited, as only one community in Kano and one community in Lagos were able to validate the result.
 The waterpoint dataset was cleaned to remove outliers, incomplete records, and points outside the study area, which may have reduced representativeness at the edges of the dataset.
 
 If you require further information about the data sources and methodology used to derive these thresholds, please email us via the [IDEAMAPS network](admin@ideamapsnetwork.org) or [Oluwatimilehin Adenike Shonowo](o.shonowo.1@research.gla.ac.uk) at the [Urban Big Data Centre, University of Glasgow](https://www.ubdc.ac.uk).
