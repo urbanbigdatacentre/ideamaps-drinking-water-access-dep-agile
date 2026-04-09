@@ -13,7 +13,7 @@ This repository contains the modelling workflow, participatory validation analys
 
 # SETUP
 1. Clone the Repository
-git clone https://github.com/urbanbigdatacentre/ideamaps-drinking-water-access-dep-agile
+git clone https://github.com/urbanbigdatacentre/ideamaps-drinking-water-access-dep-agile,
 cd ideamaps-healthcare-paper-analysis/data_preparation
 
 2. Create a Virtual Environment
