@@ -57,7 +57,7 @@ Step 3 — Apply the E2SFCA Method
 Large raster, matrix, and intermediate spatial files are excluded from this repository due to size constraints. Source datasets are available via WorldPop and IDEAMAPS / DonateWater links provided in the documentation.
 
 # LIMITATIONS AND ASSUMPTIONS
-1. Population data (WorldPop 2020) provides high-resolution, UN-adjusted estimates based on census counts. However, it may not fully capture recent urban growth, particularly in informal settlements, and it does not provide demographic disaggregation (e.g., age, gender).
+1. Population data (WorldPop and CIESIN, 2018)) provides high-resolution, UN-adjusted estimates based on census counts. However, it may not fully capture recent urban growth, particularly in informal settlements, and it does not provide demographic disaggregation (e.g., age, gender).
 2. The Donate Water Nigeria waterpoint dataset has limited spatial coverage, and some variables, including affordability and queueing conditions, were recorded only descriptively; consequently, these parameters could not be quantitatively incorporated into the modelling framework.
 3. Not all informal water vendors or small-scale distribution points were captured in the dataset.
 4. Service reliability was approximated where direct monitoring data were missing.
