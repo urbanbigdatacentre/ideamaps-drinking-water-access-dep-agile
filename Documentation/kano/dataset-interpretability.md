@@ -77,7 +77,7 @@ The focus areas is where one vulnerable community collaborated with IDEAMAPS to 
 ## Data Used for Modelling
 
 The model relies on the following datasets:
--   [Waterpoint data](https://donatewater.ng/about/) which is not yet publicly accessible, pending data-sharing agreements.
+-   [Waterpoint data](https://zenodo.org/records/19184253))
 -   [Population counts from WorldPop](https://hub.worldpop.org/geodata/summary?id=28031)
 -   [Road network data from OpenStreetMap via the Open Route Service API](https://openrouteservice.org/)
 - **Participatory validation with local communities**
