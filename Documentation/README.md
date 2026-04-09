@@ -22,7 +22,7 @@ The [utils](/utils) folder contains helpful scripts to perform common and useful
 
 
 ## 🌍 Available Datasets
-The following is the specific list of the drinking water datasets. These datasets are available for exploration using the project's [web application](https://ideamapsdataecosystem.org). Their source code and documentation is available in the respective folders.
+The following are the specific list of the drinking water datasets. These datasets are available for exploration using the project's [web application](https://ideamapsdataecosystem.org). Their source code and documentation is available in the respective folders.
 
 |                Dataset Name                 |      City       | Version |
 |:-------------------------------------------:|:---------------:|:-------:|
